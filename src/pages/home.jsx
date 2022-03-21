@@ -70,7 +70,7 @@ export default function Home() {
           This is the Glitch <strong>Hello React</strong> project. You can use
           it to build your own app. See more info in the{" "}
           <Link href="/about">About</Link> page, and check out README.md in the
-          editor for additional detail plus next steps you can take!
+          editor for additional detail plus next steps you can take! or <Link href="/login">Login</Link> 
         </p>
       </div>
     </>
